@@ -2,7 +2,7 @@ from Objects import *
 
 # SCHWIERIGKEIT EINSTELLEN
 # Erhöht die allgemeine Geschwindigkeit des Spiels
-game_ticks = 120
+game_ticks = 30
 # Vogel Anziehung nach unten (Wie viele Pixel pro Game tick nach unten)
 bird_gravity = 1
 # Definiert den Mindestabstand zwischen den Röhren in Pixeln
